@@ -6,12 +6,12 @@
     },
     {
         "name": "clink",
-        "version": "0.4.2",
-        "url": "https://github.com/mridgers/clink/releases/download/0.4.2/clink_0.4.2.zip"
+        "version": "0.4.3",
+        "url": "https://github.com/mridgers/clink/releases/download/0.4.3/clink_0.4.3.zip"
     },
     {
         "name": "conemu-maximus5",
-        "version": "140707",
-        "url": "https://conemu.codeplex.com/downloads/get/880090"
+        "version": "141117",
+        "url": "https://conemu.codeplex.com/downloads/get/932416"
     }
 ]
