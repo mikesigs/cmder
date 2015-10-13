@@ -2,7 +2,7 @@
     {
         "name": "msysgit",
         "version": "1.9.4-preview",
-        "url": "https://github.com/msysgit/msysgit/releases/download/Git-1.9.4-preview20140929/PortableGit-1.9.4-preview20140929.7z"
+        "url": "https://github.com/msysgit/msysgit/releases/download/Git-1.9.4-preview20140611/PortableGit-1.9.4-preview20140611.7z"
     },
     {
         "name": "clink",
